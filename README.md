@@ -16,8 +16,12 @@
   
   mapbox
   
-  To run this dashboard, open a bash window and type:
-  > panel serve dashboard_jh.ipynb
-- make sure the current environment contains pyviz installations
+ ## To run this dashboard:
+   1. open a bash window, cd into the cloned repository
 
- > follow further instructions on the home tab to explore visualizations
+  2. type: panel serve dashboard_jh.ipynb
+      - make sure the current environment contains pyviz installations
+
+ 3. copy the link after it says "Bokeh app running at: "
+
+ 4. follow further instructions on the home tab to explore visualizations
